@@ -2,7 +2,7 @@
 
 #### Git Clone Project URL :
 
-command `git clone https://github.com`
+command `git clone https://github.com/paswans05/billfree-reactjs-test.git`
 
 #### `npm install or npm i`
 
